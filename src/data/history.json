@@ -1,0 +1,36 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Merit Academy",
+    "startDate": "Nov 18, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Built the Learning Management System (LMS)",
+      "Integrated Chapa payment gateway",
+      "Currently working on their admin dashboard"
+    ],
+    "imageSrc": "history/merit.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "Arc Digital",
+    "startDate": "Jan 4, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed their website",
+      "Worked on graphics design and UI design, which improved my eye for UIs"
+    ],
+    "imageSrc": "history/arcDigital.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Zewd Academy",
+    "startDate": "Aug, 2022",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Developed their custom school system from the ground up",
+      "Worked on the UI design, documentation, implementation,  testing, and deployment"
+    ],
+    "imageSrc": "history/zewd.png"
+  }
+]
