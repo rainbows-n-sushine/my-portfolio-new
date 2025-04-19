@@ -1,6 +1,11 @@
 [
+
   {
     "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "React Native",
     "imageSrc": "skills/react.png"
   },
   {
@@ -36,12 +41,34 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
     "title": "Tailwind CSS",
     "imageSrc": "skills/tailwind.png"
   },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },{
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  }, {
+    "title": "Jest",
+    "imageSrc": "skills/Jest.png"
+  },
+  {
+    "title": "Mocha",
+    "imageSrc": "skills/Mocha.png"
   }
   
 ]
