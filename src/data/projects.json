@@ -4,7 +4,7 @@
     "imageSrc": "projects/berso.jpg",
     "description": "Berso is a platform built for Ethiopia, similar to Yelp, designed to help users discover and rate local businesses. The app integrates Google Maps API to easily search for businesses, rate them, and help small businesses gain visibility. It serves as a review and recommendations platform to enhance the discoverability of small businesses across the region. [There will be a an apk file for android in the demo link]",
     "skills": ["React Native", "Expo", "Tailwind", "Figma", "Node", "Express", "MongoDB", "Mobile App Development", "UI/UX Design", "MERN Stack", "System Documentation", "Google Maps API"],
-    "demo": "https://expo.dev/accounts/jaddis1111/projects/Berso/builds/9f91dd1a-e680-4e11-9e1d-209fc73782d3",
+    "demo": "https://expo.dev/accounts/jaddis1111/projects/Berso/builds/f4c91670-778c-452c-abf0-8734d6ce3b56",
     "source": "https://github.com/jaddis53/Berso.git"
   },
   {
