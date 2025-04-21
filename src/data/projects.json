@@ -1,5 +1,13 @@
 [
   {
+    "title": "Arc digital Landing page",
+    "imageSrc": "projects/arc.png",
+    "description": "I created this landing page for Arc Digital Marketing Agency with a focus on clean design, smooth animations, and a layout that feels both modern and easy to navigate. The goal was to capture the creative vibe of the brand while keeping things simple and user-friendly.",
+    "skills": [ "React", "Vite", "Tailwind", "Landing page"],
+    "demo": "https://arc-digital-1.onrender.com",
+    "source": "https://github.com/rainbows-n-sushine/Arc-digital-new.git"
+  },
+  {
     "title": "Berso",
     "imageSrc": "projects/berso.jpg",
     "description": "Berso is a platform built for Ethiopia, similar to Yelp, designed to help users discover and rate local businesses. The app integrates Google Maps API to easily search for businesses, rate them, and help small businesses gain visibility. It serves as a review and recommendations platform to enhance the discoverability of small businesses across the region. [There will be a an apk file for android in the demo link]",
@@ -7,6 +15,15 @@
     "demo": "https://expo.dev/accounts/jaddis1111/projects/Berso/builds/f4c91670-778c-452c-abf0-8734d6ce3b56",
     "source": "https://github.com/jaddis53/Berso.git"
   },
+  {
+    "title": "Berso Admin Dashboard",
+    "imageSrc": "projects/berso-dash.png",
+    "description": "Berso Admin Dashboard is a platform built inorder to let admins perform CRUD on the  data displayed on the Berso App. ",
+    "skills": ["Admin Dashboard","React", "Tailwind",  "Node", "Express", "MongoDB", "Mobile App Development", "MERN Stack", "System Documentation"],
+    "demo": "https://bersoadmindash.onrender.com/",
+    "source": "https://github.com/rainbows-n-sushine/BersoAdminDash.git"
+  },
+  
   {
     "title": "Zewd Management System",
     "imageSrc": "projects/zewd.jpg",
@@ -22,13 +39,6 @@
     "skills": ["MERN Stack", "MongoDB", "React", "Vite", "Express", "Node", "Redux Toolkit", "Payment Integration (Chapa)", "Cloudinary", "User Management", "Course Management"],
     "demo": "https://lms-zqht.onrender.com",
     "source": "https://github.com/rainbows-n-sushine/LMS.git"
-  },
-  {
-    "title": "Arc digital Landing page",
-    "imageSrc": "projects/arc.png",
-    "description": "I created this landing page for Arc Digital Marketing Agency with a focus on clean design, smooth animations, and a layout that feels both modern and easy to navigate. The goal was to capture the creative vibe of the brand while keeping things simple and user-friendly.",
-    "skills": [ "React", "Vite", "Tailwind", "Landing page"],
-    "demo": "https://arc-digital-1.onrender.com",
-    "source": "https://github.com/rainbows-n-sushine/Arc-digital-new.git"
   }
+ 
 ]
