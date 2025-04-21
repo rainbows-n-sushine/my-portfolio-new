@@ -128,7 +128,7 @@
 }
 }
 
-/* Heart animation */
+/* Rocket animation */
 .heart {
   position: absolute;
   animation: flyUp 2s ease-out forwards;

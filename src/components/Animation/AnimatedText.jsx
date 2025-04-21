@@ -11,7 +11,7 @@ const letterVariant = {
       duration: 0.5,
       ease: "easeOut",
       type: "spring",
-      stiffness: 150,   // 👈 smoother pop
+      stiffness: 150,   
       damping: 15,
     },
   }),
@@ -21,7 +21,7 @@ export default function AnimatedText({ text, className }) {
   const [show, setShow] = useState(true);
 
   useEffect(() => {
-    const totalDuration = text.length * 100 + 5000; // animation + 5s hold
+    const totalDuration = text.length * 100 + 5000; 
     const interval = setInterval(() => {
       setShow(false);
       setTimeout(() => setShow(true), 100);

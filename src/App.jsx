@@ -10,7 +10,6 @@ function App() {
   return (<div className={styles.all}>
     <Navbar/>
     <div className={styles.App}>
-   
       <Hero />
       <About />
       <Experience />

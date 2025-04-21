@@ -1,6 +1,5 @@
 import { useRef } from "react";
-import { FaArrowRight } from "react-icons/fa"; // You can install react-icons if not already
-import styles from "./Projects.module.css"
+import { FaArrowRight } from "react-icons/fa"; 
 import projects from "../../data/projects.json"
 import {ProjectCard} from "./ProjectCard.jsx"
 

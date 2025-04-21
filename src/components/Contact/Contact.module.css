@@ -124,7 +124,7 @@
   opacity: 0;
 }
 
-/* Animation trigger classes */
+
 .slideInLeft {
   animation: slideInLeft 0.8s ease-out forwards;
 }
@@ -133,7 +133,7 @@
   animation: slideInRight 0.8s ease-out forwards;
 }
 
-/* Optional staggered delays for links */
+
 .link:nth-child(1).slideInRight {
   animation-delay: 0.2s;
 }

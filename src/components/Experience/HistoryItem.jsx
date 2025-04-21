@@ -1,5 +1,3 @@
-// components/Experience/HistoryItem.js
-
 import React from "react";
 import { useInView } from "../../hooks/useInView";
 import { getImageUrl } from "../../utils";

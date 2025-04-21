@@ -40,12 +40,6 @@
   scroll-behavior: smooth;
   padding-top: 1rem;
 
-
-  /* to scroll */
-  /* display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 0px;
-  padding: 0px; */
 }
 
 @media screen and (max-width: 830px){
@@ -61,8 +55,8 @@
     display:none
   }
   .projects {
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;     /* Firefox */
+    -ms-overflow-style: none; 
+    scrollbar-width: none;     
   }
 }
 @media (min-width: 768px) {
@@ -70,8 +64,8 @@
     flex-wrap: wrap;
     overflow-x: visible;
   }
-
+/* Hides arrow on larger screens */
   .arrowButton {
-    display: none; /* Hide arrow on larger screens */
+    display: none; 
   }
 }

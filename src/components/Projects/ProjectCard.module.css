@@ -18,7 +18,7 @@
 .container:hover {
   transform: translateY(-10px);
   box-shadow: 0 20px 25px 0 rgba(4, 21, 45, 0.8);
-  background: linear-gradient(180deg, #2e4b96 0%, #0c1d3e 100%); /* Darker shades */
+  background: linear-gradient(180deg, #2e4b96 0%, #0c1d3e 100%); 
 }
 
 .image {
@@ -88,7 +88,7 @@
 @media screen and (max-width: 830px){
   .container{
     flex: 0 0 auto;
-    width: 80vw; /* or any fixed width */
+    width: 80vw; 
     scroll-snap-align: start;
     padding: 20px;
     border-radius: 10px;
