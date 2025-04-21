@@ -2,6 +2,8 @@ import { useRef } from "react";
 import { FaArrowRight } from "react-icons/fa"; 
 import projects from "../../data/projects.json"
 import {ProjectCard} from "./ProjectCard.jsx"
+import styles from "./Projects.module.css";
+
 
 export const Projects = () => {
   const scrollRef = useRef(null);
