@@ -69,6 +69,18 @@
   {
     "title": "Mocha",
     "imageSrc": "skills/Mocha.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "Vercel",
+    "imageSrc": "skills/vercel.svg"
+  },
+  {
+    "title": "Render",
+    "imageSrc": "skills/render.png"
   }
   
 ]
