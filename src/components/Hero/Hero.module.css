@@ -172,11 +172,11 @@
   left: -60px;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   .title {
     color: white; 
     background: linear-gradient(90deg, rgba(255, 255, 255, 1) 70%, rgba(45, 1, 106, 0) 120%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
   }
-}
+} */
