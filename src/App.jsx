@@ -11,9 +11,10 @@ function App() {
     <Navbar/>
     <div className={styles.App}>
       <Hero />
-      <About />
-      <Experience />
       <Projects />
+      <Experience />
+      
+      <About />
       <Contact />
     </div>
     </div>

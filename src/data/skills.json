@@ -5,15 +5,11 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "React Native",
-    "imageSrc": "skills/react.png"
-  },
-  {
     "title": "Expo",
     "imageSrc": "skills/expo.svg"
   },
   {
-    "title": "Redux toolkit",
+    "title": "Redux",
     "imageSrc": "skills/redux.png"
   },
   {
@@ -45,10 +41,6 @@
     "imageSrc": "skills/js.png"
   },
   {
-    "title": "Tailwind CSS",
-    "imageSrc": "skills/tailwind.png"
-  },
-  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
   },
@@ -77,6 +69,14 @@
   {
     "title": "Render",
     "imageSrc": "skills/render.png"
+  },
+  {
+    "title": "React Native",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
   }
   
 ]

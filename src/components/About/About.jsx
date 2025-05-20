@@ -14,8 +14,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Web Developer</h3>
               <p>
-              I'm a web developer that loves to work on both the frontend and the backend of a web app. I love building dynamic, scalable web applications and bringing ideas to life through code.
-                </p>
+              I'm a web developer that loves to work on both the frontend and the backend of a web app.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
