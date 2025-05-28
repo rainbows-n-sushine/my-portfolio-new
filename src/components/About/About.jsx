@@ -22,9 +22,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
             <h3>Mobile Developer</h3>
               <p>
-                I collaborated with school friends on a passion project—a mobile
-                app built from the ground up. That experience taught me how to
-                think mobile-first and optimize performance across devices.
+                I collaborated with school friends on a passion project.Berso, a mobile
+                app built from the ground up.
               </p>
             </div>
           </li>
@@ -34,8 +33,7 @@ export const About = () => {
               <h3>Frontend Developer</h3>
               <p>
                 I specialize in creating responsive and optimized web
-                interfaces using modern frameworks. I’ve built intuitive UIs and
-                love bringing ideas to life in the browser.
+                interfaces using modern frameworks.
               </p>
             </div>
           </li>
@@ -45,8 +43,7 @@ export const About = () => {
             <h3>Backend Developer</h3>
               <p>
                 I’ve worked on various backend systems using the MERN stack.
-                From scratch-built custom systems to enhancing existing codebases,
-                I’ve been strong at integrating new features and making backends efficient.
+                From scratch-built custom systems to enhancing existing codebases.
               </p>
             </div>
           </li>
@@ -55,8 +52,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
             <h3>UI Designer</h3>
     <p>
-      I’ve designed clean and user-focused interfaces for both mobile apps and complex systems. 
-      Whether it's a landing page, dashboard, or full mobile flow, I aim for clarity, usability, and modern aesthetics.
+     
+      Whether it's a landing page, dashboard, or full mobile flow, I aim for clarity, usability, and modern aesthetics when designing an interface.
     </p>
             </div>
           </li>
