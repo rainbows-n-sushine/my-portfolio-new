@@ -39,6 +39,14 @@
     "skills": ["MERN Stack", "MongoDB", "React", "Vite", "Express", "Node", "Redux Toolkit", "Payment Integration (Chapa)", "Cloudinary", "User Management", "Course Management"],
     "demo": "https://lms-zqht.onrender.com",
     "source": "https://github.com/rainbows-n-sushine/LMS.git"
+  },
+    {
+    "title": "NAS NINE",
+    "imageSrc": "projects/nas-nine.jpg",
+    "description": "An algorithmic trading tool that identifies high-probability setups using market structure, displacement, and fair value gaps with precise entry logic based on institutional orderflow principles.",
+    "skills": ["Python", "Algorithms", "MetaTrader library", "Quant", "Algorithmic trading", "Fintech"],
+    "demo": "/",
+    "source": "https://github.com/jaddis53/NAS-NINE.git"
   }
  
 ]
