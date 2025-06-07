@@ -37,7 +37,7 @@ export const Hero = () => {
       <div className={styles.imageWrapper} onClick={handleImageClick}>
       <span className={styles.hoverText}>Click me</span>
         <img
-          src={getImageUrl("hero/heroImage.jpg")}
+          src={getImageUrl("hero/me.webp")}
           alt="Hero image of me"
           className={styles.heroImg}
         />
